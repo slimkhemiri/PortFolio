@@ -1,40 +1,49 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
+    // img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
     title: "Fit-Hub",
     description:
       "Mobile App for fitness and health where you can find the nearest Gyms and healthy food restaurants, you can also book for a private coach as a user, join some events and follow the progress of your health. ",
     tech_stack: "React Native, Typescript, Tailwind Css, Nest Js, PostgreSQL, Heroku, Next Js",
-    github_url: "https://github.com/slimkhemiri/Fit-Hub",
-    demo_url: "https://your_project_demo_link",
+    github_url: "https://github.com/slimkhemiri/Fit-Hub"
+    // demo_url: "https://your_project_demo_link",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
+    // img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
     title: "O-Teach",
     description:
       "An online Teaching platform where you can study and take lectures and sections as a user and as an admin you can create lectures and groupsto join",
     tech_stack: "React Js, Bootstrap, Node Js, Express Js, MongoDB",
-    github_url: "https://github.com/slimkhemiri/oTeach",
-    demo_url: "https://your_project_demo_link",
+    github_url: "https://github.com/slimkhemiri/oTeach"
+    // demo_url: "https://your_project_demo_link",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
+    // img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
     title: "M-V-P",
-    description: "It's a Website Where you can find a job as a user at any field you search or you can post a job positionas a professional company ",
+    description: "It's a Website Where you can find a job as a user at any field you search or you can post a job position as a professional company ",
     tech_stack: "React Js, Css,Node Js, Express Js, MySQL",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link/",
+    github_url: "https://github.com/slimkhemiri/MVP-PROJECT"
+    // demo_url: "https://your_project_demo_link/",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
+    // img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
     title: "RMDB",
     description:
       "A Website where one can discover the popular movies, the best known and most recent in the form of trailers.",
     tech_stack: "Angular, Node Js, Express Js, MongoDB",
-    github_url: "https://github.com/slimkhemiri/RMDB",
-    demo_url: "https://your_project_demo_link",
+    github_url: "https://github.com/slimkhemiri/RMDB"
+    // demo_url: "https://your_project_demo_link",
   },
+  {
+    // img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
+    title: "CAPSTONE",
+    description:
+      "An E-Commerce Website for selling phones and cars",
+    tech_stack: "Vue Js, VueX, TailwindCss",
+    github_url: "https://github.com/slimkhemiri/Capstone-project"
+    // demo_url: "https://your_project_demo_link",
+  }
 ];
 
 // --------------------------------------- Skills
