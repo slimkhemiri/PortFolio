@@ -2,7 +2,7 @@ import React from "react";
 import { ProjectList } from "../../../data/ProjectData";
 import {
   Card,
-  CardLeft,
+  // CardLeft,
   CardRight,
   Stack,
   BtnGroup,
