@@ -20,9 +20,9 @@ export const ProjectList = [
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
-    title: "Portfolio",
-    description: "Ofcourse i made my own personal portfolio website.",
-    tech_stack: "Reactjs, Css",
+    title: "M-V-P",
+    description: "It's a Website Where you can find a job as a user at any field you search or you can post a job positionas a professional company ",
+    tech_stack: "React Js, Css,Node Js, Express Js, MySQL",
     github_url: "https://your_project_github_link",
     demo_url: "https://your_project_demo_link/",
   },
@@ -84,7 +84,10 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/responsive.svg",
     name: "Responsive",
   },
-
+  {
+    img: "https://vuejs.org/images/logo.png",
+    name: "Vue Js",
+  },
   {
     img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
     name: "Angular",
