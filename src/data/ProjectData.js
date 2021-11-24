@@ -1,49 +1,46 @@
 // --------------------------------------- Project List
+import fithub from "./img/fithub.png"
+import mvp from "./img/mvp.png"
+import oteach from "./img/oteach.png"
+import RMDB from "./img/RMDB.png"
+
 export const ProjectList = [
   {
-    // img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
+     img: fithub,
     title: "Fit-Hub",
     description:
-      "Mobile App for fitness and health where you can find the nearest Gyms and healthy food restaurants, you can also book for a private coach as a user, join some events and follow the progress of your health. ",
-    tech_stack: "React Native, Typescript, Tailwind Css, Nest Js, PostgreSQL, Heroku, Next Js",
+      "Mobile App for fitness and health where you can find the nearest Gyms and healthy food restaurants, you can also book for a private coach , Join some events and follow the progress of your health. ",
+    tech_stack: "React Native, Typescript, TailwindCss, NestJs, PostgreSQL, Heroku, Next Js",
     github_url: "https://github.com/slimkhemiri/Fit-Hub"
     // demo_url: "https://your_project_demo_link",
   },
   {
-    // img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
+     img: oteach,
     title: "O-Teach",
     description:
-      "An online Teaching platform where you can study and take lectures and sections as a user and as an admin you can create lectures and groupsto join",
+      "An online Teaching platform where you can study and take lectures and sections as a user and as an admin you can create cohorts, Lectures and groups to join",
     tech_stack: "React Js, Bootstrap, Node Js, Express Js, MongoDB",
     github_url: "https://github.com/slimkhemiri/oTeach"
     // demo_url: "https://your_project_demo_link",
   },
   {
-    // img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
+     img: mvp,
     title: "M-V-P",
     description: "It's a Website Where you can find a job as a user at any field you search or you can post a job position as a professional company ",
-    tech_stack: "React Js, Css,Node Js, Express Js, MySQL",
+    tech_stack: "ReactJs, Css, NodeJs, ExpressJs, MySQL",
     github_url: "https://github.com/slimkhemiri/MVP-PROJECT"
     // demo_url: "https://your_project_demo_link/",
   },
   {
-    // img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
+    img: RMDB,
     title: "RMDB",
     description:
       "A Website where one can discover the popular movies, the best known and most recent in the form of trailers.",
-    tech_stack: "Angular, Node Js, Express Js, MongoDB",
+    tech_stack: "Angular, NodeJs, ExpressJs, MongoDB",
     github_url: "https://github.com/slimkhemiri/RMDB"
     // demo_url: "https://your_project_demo_link",
   },
-  {
-    // img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
-    title: "CAPSTONE",
-    description:
-      "An E-Commerce Website for selling phones and cars",
-    tech_stack: "Vue Js, VueX, TailwindCss",
-    github_url: "https://github.com/slimkhemiri/Capstone-project"
-    // demo_url: "https://your_project_demo_link",
-  }
+ 
 ];
 
 // --------------------------------------- Skills

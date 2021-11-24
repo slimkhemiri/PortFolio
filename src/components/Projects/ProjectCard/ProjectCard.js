@@ -2,7 +2,7 @@ import React from "react";
 import { ProjectList } from "../../../data/ProjectData";
 import {
   Card,
-  // CardLeft,
+  CardLeft,
   CardRight,
   Stack,
   BtnGroup,
@@ -12,10 +12,10 @@ function ProjectCard() {
     <>
       {ProjectList.map((list, index) => (
         <Card key={index}>
-          {/* <image src="../../../Assets/fithub.png" /> */}
-          {/* <CardLeft>
-            {/* <img src={list.img} alt={list.name} /> */}
-          {/* </CardLeft> */} 
+      
+          <CardLeft>
+             <img src={list.img} alt={list.name} /> 
+          </CardLeft>
           <CardRight>
             <h4>{list.title}</h4>
             <p>{list.description}</p>
