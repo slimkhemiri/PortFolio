@@ -31,7 +31,7 @@ export const ProjectList = [
     github_url: "https://github.com/slimkhemiri/MVP-PROJECT"
     // demo_url: "https://your_project_demo_link/",
   },
-  
+
   {
     img: RMDB,
     title: "RMDB",
@@ -76,7 +76,7 @@ export const stackList = [
     name: "Bootstrap",
   },
   {
-    img: "https://www.whitelabeldevelopers.tech/upload/glossary/492/headimg.png",
+    img: "https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png",
     name: "Tailwind Css",
   },
   {
@@ -108,15 +108,15 @@ export const stackList = [
     name: "NodeJs",
   },
   {
-    img: "https://www.resourcifi.com/wp-content/themes/resourcifi-child/img/express-min.png",
+    img: "https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png",
     name: "ExpressJs",
   },
   {
-    img: "https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg",
+    img: "https://www.seekpng.com/png/detail/383-3838993_mongodb-logo-01-illustration.png",
     name: "MongoDB",
   },
   {
-    img: "https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png",
+    img: "https://mpng.subpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-5b80352110ca84.1955496015351288650688.jpg",
     name: "MySQL",
   },
   {
