@@ -1,35 +1,37 @@
 // --------------------------------------- Project List
-import fithub from "./img/fithub.png"
-import mvp from "./img/mvp.png"
-import oteach from "./img/oteach.png"
-import RMDB from "./img/RMDB.png"
+import fithub from "./img/fithub.png";
+import mvp from "./img/mvp.png";
+import oteach from "./img/oteach.png";
+import RMDB from "./img/RMDB.png";
 // import mvpDemo from './demo/mvpDemo.mp4'
 export const ProjectList = [
   {
-     img: fithub,
+    img: fithub,
     title: "Fit-Hub",
     description:
       "Mobile App for fitness and health where you can find the nearest Gyms and healthy food restaurants, you can also book for a private coach , Join some events and follow the progress of your health. ",
-    tech_stack: "React Native, Typescript, TailwindCss, NestJs, PostgreSQL, Heroku, Next Js",
-    github_url: "https://github.com/slimkhemiri/Fit-Hub"
+    tech_stack:
+      "React Native, Typescript, TailwindCss, NestJs, PostgreSQL, Heroku, Next Js",
+    github_url: "https://github.com/slimkhemiri/Fit-Hub",
     // demo_url: "https://your_project_demo_link",
   },
   {
-     img: oteach,
+    img: oteach,
     title: "O-Teach",
     description:
       "An online Teaching platform where you can study and take lectures and sections as a user and as an admin you can create cohorts, Lectures and groups to join",
     tech_stack: "React Js, Bootstrap, Node Js, Express Js, MongoDB",
-    github_url: "https://github.com/slimkhemiri/oTeach"
+    github_url: "https://github.com/slimkhemiri/oTeach",
     // demo_url: "https://your_project_demo_link",
   },
   {
-     img: mvp,
+    img: mvp,
     title: "M-V-P",
-    description: "It's a Website Where you can find a job as a user at any field you search or you can post a job position as a professional company ",
+    description:
+      "It's a Website Where you can find a job as a user at any field you search or you can post a job position as a professional company ",
     tech_stack: "ReactJs, Css, NodeJs, ExpressJs, MySQL",
     github_url: "https://github.com/slimkhemiri/MVP-PROJECT",
-    //  demo_url: mvpDemo 
+    //  demo_url: mvpDemo
   },
 
   {
@@ -38,10 +40,9 @@ export const ProjectList = [
     description:
       "A Website where one can discover the popular movies, the best known and most recent in the form of trailers.",
     tech_stack: "Angular, NodeJs, ExpressJs, MongoDB",
-    github_url: "https://github.com/slimkhemiri/RMDB"
+    github_url: "https://github.com/slimkhemiri/RMDB",
     // demo_url: "https://your_project_demo_link",
   },
- 
 ];
 
 // --------------------------------------- Skills
@@ -126,5 +127,13 @@ export const stackList = [
   {
     img: "https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png",
     name: "Next Js",
+  },
+  {
+    img: "https://ih1.redbubble.net/image.1952832123.3187/st,small,507x507-pad,600x600,f8f8f8.jpg",
+    name: "Heroku",
+  },
+  {
+    img: "https://www.docker.com/blog/wp-content/uploads/2021/09/Whale-Logo332_5.png",
+    name: "Docker",
   },
 ];
