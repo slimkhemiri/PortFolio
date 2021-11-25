@@ -3,7 +3,7 @@ import fithub from "./img/fithub.png"
 import mvp from "./img/mvp.png"
 import oteach from "./img/oteach.png"
 import RMDB from "./img/RMDB.png"
-
+// import mvpDemo from './demo/mvpDemo.mp4'
 export const ProjectList = [
   {
      img: fithub,
@@ -28,8 +28,8 @@ export const ProjectList = [
     title: "M-V-P",
     description: "It's a Website Where you can find a job as a user at any field you search or you can post a job position as a professional company ",
     tech_stack: "ReactJs, Css, NodeJs, ExpressJs, MySQL",
-    github_url: "https://github.com/slimkhemiri/MVP-PROJECT"
-    // demo_url: "https://your_project_demo_link/",
+    github_url: "https://github.com/slimkhemiri/MVP-PROJECT",
+    //  demo_url: mvpDemo 
   },
 
   {
