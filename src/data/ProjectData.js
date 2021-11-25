@@ -3,6 +3,7 @@ import fithub from "./img/fithub.png";
 import mvp from "./img/mvp.png";
 import oteach from "./img/oteach.png";
 import RMDB from "./img/RMDB.png";
+import hulu from "./img/hulu.png";
 // import mvpDemo from './demo/mvpDemo.mp4'
 export const ProjectList = [
   {
@@ -13,6 +14,15 @@ export const ProjectList = [
     tech_stack:
       "React Native, Typescript, TailwindCss, NestJs, PostgreSQL, Heroku, Next Js",
     github_url: "https://github.com/slimkhemiri/Fit-Hub",
+    // demo_url: "https://your_project_demo_link",
+  },
+   {
+    img: hulu ,
+    title: "Hulu",
+    description:
+      "A streaming movies website where you can find all the categories,Top rated and trending movies",
+    tech_stack: "NextJs, tailwindCss, API, Responsive",
+    github_url: "https://github.com/slimkhemiri/hulu.nextjs",
     // demo_url: "https://your_project_demo_link",
   },
   {
