@@ -10,7 +10,7 @@ import {
   ScrollDown,
   ScrollLink,
 } from "./HeroElements";
-import slim from "../../Assets/me.jpeg"
+import slim from "../../Assets/meee.jpg";
 function Hero() {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -31,10 +31,7 @@ function Hero() {
             </p>
           </HeroLeft>
           <HeroRight>
-            <Image
-              src={slim}
-              alt="man-svgrepo"
-            />
+            <Image src={slim} alt="man-svgrepo" />
           </HeroRight>
         </HeroWrapper>
         <ScrollDown to="projects">
