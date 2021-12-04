@@ -19,11 +19,11 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Khemiri Slim</strong> I’m
-            graduated as a full stack software developer. I worked on respectful
-            amount of projects which helped me to sharpen my skills to a higher
-            and qualified level, And I’m looking forward to be an expert
-            developer with strong hard and soft skills.
+            Hello! My name is <strong>Khemiri Slim</strong> I’m a
+            full stack software developer. I am very interested in the IT sector
+            within my competence and eager to invest myself totally in a post
+            where I can put them profit. Good skills of assimilation, a strong
+            spirit of synthesis and good human contact.
           </div>
           <div className="AboutBio tagline2">
             I have become confident using the following technologies.
