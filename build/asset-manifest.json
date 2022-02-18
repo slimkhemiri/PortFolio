@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83297e23.chunk.css",
+    "main.js": "/static/js/main.e45e8d46.chunk.js",
+    "main.js.map": "/static/js/main.e45e8d46.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.14c57f4f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.14c57f4f.js.map",
+    "static/js/2.e7c76a35.chunk.js": "/static/js/2.e7c76a35.chunk.js",
+    "static/js/2.e7c76a35.chunk.js.map": "/static/js/2.e7c76a35.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.83297e23.chunk.css.map": "/static/css/main.83297e23.chunk.css.map",
+    "static/js/2.e7c76a35.chunk.js.LICENSE.txt": "/static/js/2.e7c76a35.chunk.js.LICENSE.txt",
+    "static/media/RMDB.0544b452.png": "/static/media/RMDB.0544b452.png",
+    "static/media/fithub.72a1ba79.png": "/static/media/fithub.72a1ba79.png",
+    "static/media/hulu.35b60c77.png": "/static/media/hulu.35b60c77.png",
+    "static/media/meee.8c39a435.jpg": "/static/media/meee.8c39a435.jpg",
+    "static/media/mvp.7079baee.png": "/static/media/mvp.7079baee.png",
+    "static/media/oteach.b1c39a60.png": "/static/media/oteach.b1c39a60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14c57f4f.js",
+    "static/js/2.e7c76a35.chunk.js",
+    "static/css/main.83297e23.chunk.css",
+    "static/js/main.e45e8d46.chunk.js"
+  ]
+}
