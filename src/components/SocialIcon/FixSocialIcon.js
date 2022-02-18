@@ -68,7 +68,7 @@ function FixSocialIcon() {
             <FaYoutube />
           </a>
         </li>
-        &
+        
         <li className="item">
           <a href="/" target="_blank" rel="noopener noreferrer">
             <FaTwitter />
