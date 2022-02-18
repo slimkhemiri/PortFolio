@@ -1,5 +1,5 @@
 import React from "react";
-import { FaLinkedin, FaInstagram, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaInstagram, FaGithub,    FaTwitter,FaSpotify  , FaYoutube } from "react-icons/fa";
 import styled from "styled-components";
 
 const Social = styled.div`
@@ -59,6 +59,25 @@ function FixSocialIcon() {
             rel="noopener noreferrer"
           >
             <FaInstagram />
+          </a>
+        </li>
+        <li className="item">
+          <a
+            href="/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaYoutube />
+          </a>
+        </li>
+        
+        <li className="item">
+          <a
+            href="/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaTwitter />
           </a>
         </li>
       </ul>

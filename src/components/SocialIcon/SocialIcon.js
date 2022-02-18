@@ -1,5 +1,5 @@
 import React from "react";
-import { FaLinkedin, FaInstagram, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaInstagram, FaGithub, FaYoutube } from "react-icons/fa";
 
 import styled from "styled-components";
 
@@ -54,12 +54,17 @@ function SocialIcon() {
           </a>
         </li>
         <li className="item">
+          <a href="/" target="_blank" rel="noopener noreferrer">
+            <FaInstagram />
+          </a>
+        </li>
+        <li className="item">
           <a
-            href="/"
+            href="https://github.com/slimkhemiri"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaInstagram />
+            <FaYoutube />
           </a>
         </li>
       </ul>

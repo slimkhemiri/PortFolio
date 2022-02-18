@@ -29,6 +29,7 @@ function Hero() {
             <p>
               I design and code beautifully simple things, and I love what I do.
             </p>
+          
           </HeroLeft>
           <HeroRight>
             <Image src={slim} alt="man-svgrepo" />

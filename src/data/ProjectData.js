@@ -14,16 +14,16 @@ export const ProjectList = [
     tech_stack:
       "React Native, Typescript, TailwindCss, NestJs, PostgreSQL, Heroku, Next Js",
     github_url: "https://github.com/slimkhemiri/Fit-Hub",
-    // demo_url: "https://your_project_demo_link",
+    demo_url: "https://your_project_demo_link",
   },
-   {
-    img: hulu ,
+  {
+    img: hulu,
     title: "Hulu",
     description:
       "A streaming movies website where you can find all the categories,Top rated and trending movies",
     tech_stack: "NextJs, tailwindCss, API, Responsive",
     github_url: "https://github.com/slimkhemiri/hulu.nextjs",
-    // demo_url: "https://your_project_demo_link",
+    demo_url: "https://your_project_demo_link",
   },
   {
     img: oteach,
@@ -32,7 +32,7 @@ export const ProjectList = [
       "An online Teaching platform where you can study and take lectures and sections as a user and as an admin you can create cohorts, Lectures and groups to join",
     tech_stack: "React Js, Bootstrap, Node Js, Express Js, MongoDB",
     github_url: "https://github.com/slimkhemiri/oTeach",
-    // demo_url: "https://your_project_demo_link",
+    demo_url: "https://your_project_demo_link",
   },
   {
     img: mvp,
@@ -51,7 +51,7 @@ export const ProjectList = [
       "A Website where one can discover the popular movies, the best known and most recent in the form of trailers.",
     tech_stack: "Angular, NodeJs, ExpressJs, MongoDB",
     github_url: "https://github.com/slimkhemiri/RMDB",
-    // demo_url: "https://your_project_demo_link",
+    demo_url: "https://your_project_demo_link",
   },
 ];
 
