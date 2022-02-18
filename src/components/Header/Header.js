@@ -2,20 +2,16 @@ import React from "react";
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
 
 const Header = ({ toggle }) => {
-  
   return (
     <div className="Container">
       <Nav>
         <Logo to="/">
-        <img
+          <img
             src="https://www.pikpng.com/pngl/b/238-2383593_s-logo-png-transparent-cool-s-logo-clipart.png"
             alt="logo"
           />
         </Logo>
         <NavMenu>
-        <NavLink className="menu-item" to="projects" smooth={true}>
-           Home
-          </NavLink>
           <NavLink className="menu-item" to="projects" smooth={true}>
             Projects
           </NavLink>
