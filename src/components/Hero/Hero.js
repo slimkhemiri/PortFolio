@@ -10,7 +10,7 @@ import {
   ScrollDown,
   ScrollLink,
 } from "./HeroElements";
-import slim from "../../Assets/meee.jpg";
+import slim from "../../Assets/slim.png";
 function Hero() {
   const [isOpen, setIsOpen] = useState(false);
 
