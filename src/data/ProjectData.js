@@ -103,6 +103,15 @@ export const stackList = [
     name: "Responsive",
   },
   {
+    img: "https://image.shutterstock.com/image-vector/initial-letter-ux-logo-lowercase-260nw-1033319803.jpg",
+    name: "UI/UX Design",
+  },
+  {
+    img: "https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png",
+    name: "Next Js",
+  },
+ 
+  {
     img: "https://vuejs.org/images/logo.png",
     name: "Vue Js",
   },
@@ -134,10 +143,7 @@ export const stackList = [
     img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png",
     name: "PostgreSQL",
   },
-  {
-    img: "https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png",
-    name: "Next Js",
-  },
+
   {
     img: "https://ih1.redbubble.net/image.1952832123.3187/st,small,507x507-pad,600x600,f8f8f8.jpg",
     name: "Heroku",
