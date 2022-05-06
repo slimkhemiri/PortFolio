@@ -79,7 +79,7 @@ export const stackList = [
     name: "ReactJS",
   },
   {
-    img: "https://www.kindpng.com/picc/m/17-176451_atom-react-native-logo-svg-hd-png-download.png",
+    img: "https://w7.pngwing.com/pngs/186/205/png-transparent-react-native-react-logos-brands-icon.png",
     name: "React Native",
   },
   {
@@ -145,7 +145,7 @@ export const stackList = [
   },
 
   {
-    img: "https://ih1.redbubble.net/image.1952832123.3187/st,small,507x507-pad,600x600,f8f8f8.jpg",
+    img: "https://weibeld.net/assets/icons/heroku.png",
     name: "Heroku",
   },
   {
