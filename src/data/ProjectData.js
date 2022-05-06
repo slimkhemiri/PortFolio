@@ -79,7 +79,7 @@ export const stackList = [
     name: "ReactJS",
   },
   {
-    img: "https://w7.pngwing.com/pngs/186/205/png-transparent-react-native-react-logos-brands-icon.png",
+    img: "https://img.icons8.com/ios/500/react-native--v1.png",
     name: "React Native",
   },
   {
@@ -110,7 +110,7 @@ export const stackList = [
     img: "https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png",
     name: "Next Js",
   },
- 
+
   {
     img: "https://vuejs.org/images/logo.png",
     name: "Vue Js",
@@ -155,5 +155,5 @@ export const stackList = [
   {
     img: "https://logowik.com/content/uploads/images/aws-amazon-web-services.jpg",
     name: "AWS",
-  }
+  },
 ];
