@@ -7,7 +7,7 @@ const Header = ({ toggle }) => {
     <div className="Container">
       <Nav>
         <Logo to="/">
-          <img
+          <img style={{ height:"80px",width:"80px"}}
             src={Sk}
             alt="logo"
           />
