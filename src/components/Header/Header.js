@@ -1,6 +1,6 @@
 import React from "react";
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
-
+import Sk from "../../Assets/sk1.png"
 
 const Header = ({ toggle }) => {
   return (
@@ -8,7 +8,7 @@ const Header = ({ toggle }) => {
       <Nav>
         <Logo to="/">
           <img
-            src="https://www.pikpng.com/pngl/b/238-2383593_s-logo-png-transparent-cool-s-logo-clipart.png"
+            src={Sk}
             alt="logo"
           />
         </Logo>
