@@ -14,7 +14,7 @@ export const ProjectList = [
     tech_stack:
       "React Native, Typescript, TailwindCss, NestJs, PostgreSQL, Heroku, Next Js",
     github_url: "https://github.com/slimkhemiri/Fit-Hub",
-    demo_url: "https://your_project_demo_link",
+    demo_url: "https://photos.app.goo.gl/acnma9TE4LQJwxjk8",
   },
   {
     img: hulu,
