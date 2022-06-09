@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import {motion} from 'framer-motion'
 import Dropdown from "../Dropdown/Dropdown";
 import Header from "../Header/Header";
 import {
@@ -11,6 +12,7 @@ import {
   ScrollLink,
 } from "./HeroElements";
 import slim from "../../Assets/slim.png";
+
 function Hero() {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -23,12 +25,27 @@ function Hero() {
       <Header toggle={toggle} />
       <HeroContainer>
         <HeroWrapper>
-          <HeroLeft>
-            <h1>Hi, I'm Slim Khemiri</h1>
-            <h5>Fullstack Software Developer</h5>
-            <p>
+          <HeroLeft
+         
+          >
+            <motion.h1
+              animate={{scale:1,x:0,opacity:1}}
+              initial={{scale:0,x:-50,opacity:0}} 
+              transition={{duration:.4}}
+            >Hi, I'm Slim Khemiri</motion.h1>
+            <motion.h5 
+             animate={{scale:1,x:0,opacity:1}}
+             initial={{scale:0,x:-50,opacity:0}} 
+             transition={{duration:.4}}
+            >Fullstack Software Developer</motion.h5>
+            
+            <motion.p
+             animate={{scale:1,x:0,opacity:1}}
+             initial={{scale:0,x:-50,opacity:0}} 
+             transition={{duration:.4}}
+            >
               I design and code beautifully simple things, and I love what I do.
-            </p>
+            </motion.p>
           
           </HeroLeft>
           <HeroRight>
