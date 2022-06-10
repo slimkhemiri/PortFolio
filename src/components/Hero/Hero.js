@@ -47,10 +47,14 @@ function Hero() {
               I design and code beautifully simple things, and I love what I do.
             </motion.p>
           
-          </HeroLeft>
-          <HeroRight>
+          </HeroLeft> 
+          <motion.HeroRight 
+           animate={{scale:1,y:0,opacity:1}}
+           initial={{scale:0,y:-150,opacity:0}} 
+           transition={{duration:.4}}
+          >
             <Image src={slim} alt="man-svgrepo" />
-          </HeroRight>
+          </motion.HeroRight>
         </HeroWrapper>
         <ScrollDown to="projects">
           <ScrollLink>
