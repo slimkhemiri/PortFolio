@@ -92,10 +92,10 @@ const Education = () => {
               <TimelineConnector />
             </TimelineSeparator>
             <TimelineContent>
-              <div class="timelineHeading">Data Science</div>
+              {/* <div class="timelineHeading">Data Science</div> */}
               <div class="timelineSubheading"></div>
               <div class="timelineText">
-                Faculty of Economics and Management, Nabeul
+              Sector Center for Training and Tertiary Professions (CSFMT), Gammarth
               </div>
             </TimelineContent>
           </TimelineItem>
