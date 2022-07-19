@@ -48,13 +48,11 @@ function Hero() {
             </motion.p>
           
           </HeroLeft> 
-          <motion.HeroRight 
-           animate={{scale:1,y:0,opacity:1}}
-           initial={{scale:0,y:-150,opacity:0}} 
-           transition={{duration:.4}}
+          <HeroRight 
+          
           >
             <Image src={slim} alt="man-svgrepo" />
-          </motion.HeroRight>
+          </HeroRight>
         </HeroWrapper>
         <ScrollDown to="projects">
           <ScrollLink>
